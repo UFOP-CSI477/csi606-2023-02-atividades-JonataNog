@@ -1,0 +1,14 @@
+spring:
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/doe_ja?useTimezone=true&serverTimezone=UTC
+      username: root
+      password: 'Olivia$97'
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+    #properties:
+      #hibernate:
+        #dialect: org.hibernate.dialect.MySQLDialect
+    show-sql: false
