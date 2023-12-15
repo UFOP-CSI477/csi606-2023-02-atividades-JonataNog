@@ -3,11 +3,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Jônata Lucas Nogueira
+- Matrícula: 19.2.8079
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 7º semestre
+- Link para o seu GitHub: https://github.com/JonataNog
 
 ## [Projeto final:](./Projeto/README.md)
 
